@@ -1,0 +1,17 @@
+{
+    "name": "questrial-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Joe Prince"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/questrial-bower.git"
+    },
+    "description": "Questrial font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
